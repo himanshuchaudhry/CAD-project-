@@ -7,6 +7,9 @@ To identify and match faces in real-time,
 Maximum accuracy.
  Straightforward interface for users to interact with the app.
  
+ ![image](https://user-images.githubusercontent.com/90196779/233591370-849c34b6-e50f-4959-b830-bbd7a73d62bc.png)
+
+ 
  
  
  
