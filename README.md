@@ -8,6 +8,10 @@ Maximum accuracy.
  Straightforward interface for users to interact with the app.
  
  ![image](https://user-images.githubusercontent.com/90196779/233591370-849c34b6-e50f-4959-b830-bbd7a73d62bc.png)
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/90196779/233591659-95bec023-6a08-42b5-a748-6e90ebb08d9d.png)
+
 
  
  
